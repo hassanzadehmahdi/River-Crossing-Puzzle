@@ -1,4 +1,4 @@
-# River-Crossing
+# River-Crossing-Puzzle
 This is a variation of the classical river crossing puzzle. In these kinds of puzzles, the limitations to the solution is defined by the constraints placed on the different objects involved.
 
 This puzzle consist of 8 persons:
