@@ -16,3 +16,8 @@ In this puzzle, there are a few restrictions:
     the father cannot be with the girls without the mother
     the mother cannot be with the boys without the father
     only the father, mother and police can operate the boat
+
+
+An example of running the program:
+
+![16](https://user-images.githubusercontent.com/45950266/153376250-a3e17a17-df10-4a17-b7d5-6920d119a266.png)
